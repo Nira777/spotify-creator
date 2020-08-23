@@ -1,0 +1,18 @@
+{
+  "name": "spotify-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.1.0",
+    "qs": "^6.9.4",
+    "randomstring": "^1.1.5",
+    "readline-sync": "^1.4.10"
+  }
+}

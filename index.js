@@ -28,7 +28,6 @@ const Spotify = (username, password, tgl_lahir, bln_lahir, thn_lahir, email) =>
       email: email,
       gender: "male",
       app_version: "849800892",
-      birth_month: "12",
       password_repeat: password,
       username: username,
     });
